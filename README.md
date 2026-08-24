@@ -203,6 +203,7 @@ Monitor Genetic Algorithm parameters, fitness score, optimization progress, and 
 - Examination window configuration
 - Structured input-data validation
 ---
+
 ## 📂 Project Structure
 
 ```text
@@ -246,3 +247,56 @@ ExamOptiGA/
 ├── postcss.config.js
 ├── README.md
 └── LICENSE
+```
+
+---
+
+## 🎯 Project Highlights
+
+- Genetic Algorithm Based Scheduling
+- Automated Examination Timetable
+- Intelligent Hall & Invigilator Allocation
+- Automated Seating Arrangement
+- Interactive Analytics Dashboard
+- Fitness & Conflict Evaluation
+- CSV, Excel & PDF Reports
+- Responsive Professional UI
+
+---
+
+## 🚀 Future Enhancements
+
+- Real-Time GA Optimization
+- Advanced Conflict Detection
+- Multi-Department Scheduling
+- AI-Assisted Timetable Generation
+- Advanced Analytics
+- Cloud-Based Management
+- Mobile Application Support
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Developer
+
+**Lalith Krish**
+
+**AI & Data Science Engineer**
+
+📧 **Email:**  
+lalithkrish2006@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/lalithkrish-data
+
+🐙 **GitHub:**  
+https://github.com/Lalithkrish06
+
+---
+
+### ⭐ If you found this project useful, consider giving it a Star.ul, consider giving it a Star.
