@@ -444,7 +444,7 @@ Through this project, I gained practical experience in:
 <div align="center">
 
 <a href="https://examoptiga.lalithkrish.dev/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Application-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Application">
+<img src="https://img.shields.io/badge/%20Live%20Application-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Application">
 </a>
 &nbsp;
 <a href="https://github.com/Lalithkrish06/LaliExamOptiGA">
